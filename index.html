@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <link rel="icon" href="starry-night.png" type="image/x-icon">
+  <link rel="shortcut icon" href="pstarry-night.png" type="image/x-icon">
+  <title>Amrita's Art Gallery</title>
+  <link rel="stylesheet" href="css/gallery.css" />
+
+  <!-- Optional libraries for layout -->
+  <script src="https://unpkg.com/packery@2/dist/packery.pkgd.min.js"></script>
+  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+</head>
+<body>
+
+  <div class="ceiling-container">
+    <div class="ceiling-curve"></div>
+    <div class="trim trim-1"></div>
+    <div class="trim trim-2"></div>
+    <div class="trim trim-3"></div>
+    
+    <div class="controls">
+      <button id="darkModeToggle">🌙 Dark Mode</button>
+      <input type="text" id="search" placeholder="Search by title, medium, year...">
+      <button id="searchButton">Search</button>
+      <button id="resetButton">Home</button>
+    </div>
+  </div>
+
+  <div id="no-results-message" style="display:none; color:#fff; text-align:center; padding:20px;">
+    No paintings match your search.
+  </div>
+  <!-- Gallery container -->
+  <div class="gallery-wall"></div>
+
+ 
+
+  <!-- Scripts (placed at end for DOM readiness) -->
+  <script src="scripts/gallery.js"></script>
+
+  <div class="footer-trims">
+    <div class="trim trim-bottom-1"></div>
+    <div class="trim trim-bottom-2"></div>
+    <div class="trim trim-bottom-3"></div>
+  </div>
+
+  <div class="lightbox">
+    <span class="lightbox-close">&times;</span>
+    <span class="lightbox-nav lightbox-prev">&#10094;</span>
+    <span class="lightbox-nav lightbox-next">&#10095;</span>
+    <div class="lightbox-content">
+      <div class="lightbox-frame">
+        <img class="lightbox-img" src="" alt="">
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
+
