@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "title": "Waterfall",
+    "image": "Paintings/Waterfall.png",
+    "alt": "Blue waterfall painting with cherry blossom tree in the foreground.",
+    "medium": "Acrylic Paint",
+    "canvas": "The drawing notebooks we used to have in school.",
+    "year": "2020-2022 📅",
+    "original": {
+      "text": "Youtube",
+      "link": "https://youtu.be/SHKtV9rsy8k?si=Hzyw7ylgIgBvXplC"
+    },
+    "funFact": "This painting taught me my first major lessons in art: You can never have enough white paint."
+  },
+  {
+    "id": 10,
+    "title": "Green Landscape",
+    "image": "Paintings/Landscape Green.png",
+    "alt": "Painting 10",
+    "medium": "Acrylic Paint",
+    "canvas": "The drawing notebooks we used to have in school.",
+    "year": "2020-2022 📅",
+    "original": {
+      "text": "Youtube: Painting by Bob Ross",
+      "link": "https://youtu.be/lLWEXRAnQd0?si=ngfO2Kmxr-hwaDnS"
+    },
+    "funFact": "It was really hard to put so many layers of paint and the paper started to peel at some point too. Bob Ross paints on a canvas with Oil Paint so this painting just does not have as much dimensions as his."
+  },
+  {
+    "id": 2,
+    "title": "Sculpted Face",
+    "image": "Paintings/Man Face Ink.png",
+    "alt": "Painting 2",
+    "medium": "Blue Permanent Marker",
+    "canvas": "Plain Diary Page",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌",
+    "age": "20",
+    "funFact": "I don't know how to categorize this face because honestly this could be a really pretty guy or a very handsome woman."
+  },
+  {
+    "id": 3,
+    "title": "Looking at the Sky",
+    "image": "Paintings/Women Face Ink.png",
+    "alt": "Painting 3",
+    "medium": "Black Permanent Marker",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌",
+    "funFact": "Someone pointed out that this painting looks quite like me. I agree that we share similar face shape.",
+    "quote": "\"We are all in the gutter, but some of us are looking at the stars.\" - Oscar Wilde"
+  },
+  {
+    "id": 5,
+    "title": "Gryffindore Lion",
+    "image": "Paintings/Lion.png",
+    "alt": "Painting 5",
+    "medium": "Sketch Pens",
+    "canvas": "Flash Cards",
+    "year": "2020-2022 📅",
+    "original": "Pinterest 📌",
+    "funFact": "The 'G' on lower right corner is supposed to be for Gryffindore. Can you guess which Hogwarts House I belong to? I am a proud Hufflepuff."
+  },
+  {
+    "id": 6,
+    "title": "Wizard Spider-Man",
+    "image": "Paintings/Wizard Spiderman.png",
+    "alt": "Painting 6",
+    "medium": "Sketch Pens",
+    "canvas": "Flash Cards",
+    "year": "2020-2022 📅",
+    "original": "Pinterest 📌",
+    "funFact": "I drew this just before Spider-Man: No Way Home was announced. Also Spider-Man and Doctor Strange have a good dynamic in the Disney-XD Ultimate Spider-Man. In one of the episodes we can even see Spider-Man wearing the cape of Doctor Strange.",
+    "movie": "Spider-Man: No Way Home",
+    "show": "Ultimate Spider-Man (I think the episodes of most Disney XD shows are being streamed 24 hours on Youtube now!)"
+  },
+  {
+    "id": 21,
+    "title": "Harry Potter",
+    "image": "Paintings/Harry Potter.png",
+    "alt": "Painting 21",
+    "medium": "Oil Pastels (The tiny ones that come in a pack of 10.)",
+    "canvas": "The drawing notebooks we used to have in school.",
+    "year": "2017-18 📅",
+    "original": "Google",
+    "funFact": "I did not get a smartphone till 2020. I drew this by looking at the reference image on a Jio-phone screen. Also the blended oil pastel backgrounds were quite a hit at the time."
+  },
+  {
+    "id": 15,
+    "title": "Girl with a story",
+    "image": "Paintings/Japanese girl ink.png",
+    "alt": "Painting 15",
+    "medium": "Black Permanent Marker",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌",
+    "funFact": "So this is obviously multiple drawings put into one. I was going for the sketch book pages type of designs on pinterest. My roommates tried to build a story about the girl based on the elements for fun. Turns out she had a sad ending.",
+    "kdrama": {
+      "text":"Revenge Note (The protagonist looks very similar to her.)",
+      "link":"https://g.co/kgs/kQKZuVS"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Eyes",
+    "image": "Paintings/Eyes.png",
+    "alt": "Bue penn sketch of two eyes and nose on white sheet of paper",
+    "medium": "Blue Ball Point Pen",
+    "canvas": "A4 Sheet",
+    "year": "2020-2022 📅",
+    "original": "Pinterest 📌",
+    "funFact": "The eyes look a lot like the eyes of Timothée Chalamet. Honestly all pretty drawings of eyes on Pinterest look like him. He just has those eyes.",
+    "book": "Call me by Your Name (I read it around the same time as I drew this.)",
+    "blog": {
+      "text": "I wrote a blog post about it!",
+      "link": ""
+    }
+},
+  {
+    "id": 4,
+    "image": "Paintings/Man lying.png",
+    "alt": "Painting 4",
+    "title": "Tired of Life",
+    "medium": "Pencil",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 17,
+    "image": "Paintings/Stupid Deep.png",
+    "alt": "Painting 17",
+    "title": "Stupid Deep",
+    "medium": "Dry Paint Pallet (25 Rs)",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌",
+    "song": {
+      "text": "Stupid Deep",
+      "link": "https://www.youtube.com/watch?v=EtlZV2EaZBQ"
+    }
+  },
+  {
+    "id": 18,
+    "image": "Paintings/Be still.png",
+    "alt": "Painting 18",
+    "title": "Be Still",
+    "medium": "Dry Paint Pallet (25 Rs)",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌",
+    "poem": "\"Be Still\" by Alfred Edward Housman"
+  },
+  {
+    "id": 7,
+    "image": "Paintings/Burning.png",
+    "alt": "Painting 7",
+    "title": "All Consuming",
+    "medium": "Dry Paint Pallet (25 Rs)",
+    "canvas": "Plain Diary Page",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌",
+    "quote": "I can think of so many Friedrich Nietzsche quotes that would be appropriate for this painting, but let's go with these:\n\"I know of no better life purpose than to perish in attempting the great and the impossible.\""
+  },
+  {
+    "id": 8,
+    "image": "Paintings/Yellow Landscape.png",
+    "alt": "Painting 8",
+    "title": "Yellow Landscape",
+    "medium": "Dry Paint Pallet (25 Rs)",
+    "canvas": "Plain Diary Page",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 11,
+    "image": "Paintings/Pink Blue clouds.png",
+    "alt": "Painting 11",
+    "title": "Clouds",
+    "medium": "Acrylic Paint",
+    "canvas": "Lined Diary Page",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 12,
+    "image": "Paintings/Bamboo.png",
+    "alt": "Painting 12",
+    "title": "Bamboo Tree",
+    "medium": "Acrylic Paint",
+    "canvas": "Lined Diary Page",
+    "year": "2020-2022 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 13,
+    "image": "Paintings/Baby Turtle.png",
+    "alt": "Painting 13",
+    "title": "Baby Turtle",
+    "medium": "Pencil",
+    "canvas": "The drawing notebooks we used to have in school.",
+    "year": "2017-18📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 14,
+    "image": "Paintings/Plant thrive.png",
+    "alt": "Painting 14",
+    "title": "Thriving Plant",
+    "medium": "Sketch Pens",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": "Quote I think from Instagram and drawing from Pinterest."
+  },
+  {
+    "id": 16,
+    "image": "Paintings/Peeking Girl.png",
+    "alt": "Painting 16",
+    "title": "Peeking Girl",
+    "medium": "Dry Paint Pallet (25 Rs)",
+    "canvas": "A4 Sheet",
+    "year": "2020-2022 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 19,
+    "image": "Paintings/Kakashi.png",
+    "alt": "Painting 19",
+    "title": "Kakashi",
+    "medium": "Green Ball Pen",
+    "canvas": "Lined Diary Page",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 20,
+    "image": "Paintings/Girl hand on face.png",
+    "alt": "Painting 20",
+    "title": "Glitch in the Matrix kind of Girl",
+    "medium": "Black Permanent Marker",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 22,
+    "image": "Paintings/Mountain Man.png",
+    "alt": "Painting 22",
+    "title": "Man on a Mountain",
+    "medium": "Acrylic Paint",
+    "canvas": "The drawing notebooks we used to have in school.",
+    "year": "2020-2022 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 23,
+    "image": "Paintings/Sharp Women.png",
+    "alt": "Painting 23",
+    "title": "Sharp Women",
+    "medium": "Blue Ball Point Pen",
+    "canvas": "A4 Sheet",
+    "year": "2020-2022 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 24,
+    "image": "Paintings/Feet Sketch.png",
+    "alt": "Circular drawing from the perspective of the ground with feet on it, surrounded by buildings annd electric poles.",
+    "title": "Perspective Shot",
+    "medium": "Black Ball Point Pen",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 25,
+    "image": "Paintings/Giraffe.png",
+    "alt": "Painting 25",
+    "title": "Giraffe",
+    "medium": "Pencil",
+    "canvas": "The drawing notebooks we used to have in school.",
+    "year": "2017-18 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 26,
+    "image": "Paintings/Ink Curly Hair.png",
+    "alt": "Painting 26",
+    "title": "Women with Curly Hair",
+    "medium": "Blue Ball Point Pen",
+    "canvas": "A4 Sheet",
+    "year": "2020-2022 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 27,
+    "image": "Paintings/Skeleton.png",
+    "alt": "Painting 27",
+    "title": "One More Chapter",
+    "medium": "Dry Paint Pallet (25 Rs)",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": {
+      "text": "Pinterest 📌",
+      "link": "https://pin.it/4zUIhOtx2"
+    },
+    "funFact":"My very religious mother saw this painting on my wall during a video call. I was immediately instructed to remove such devious paintings and put paintings of Goddess Saraswati."
+  },
+  {
+    "id": 28,
+    "image": "Paintings/Chicken.png",
+    "alt": "Painting 28",
+    "title": "Heihei",
+    "medium": "Blue Trimax Pen",
+    "canvas": "Sticky Notes 🗅 ",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌",
+    "movie":{
+      "text":"Moana",
+      "link":"https://g.co/kgs/P9Dy3aT"
+    }
+  },
+  {
+    "id": 29,
+    "image": "Paintings/Birds on line.png",
+    "alt": "Painting 29",
+    "title": "Birds on Electric Wires",
+    "medium": "Blue Trimax Pen",
+    "canvas": "Sticky Notes 🗅 ",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 30,
+    "image": "Paintings/Cat Flower Vase.png",
+    "alt": "Painting 30",
+    "title": "Cat sitting beside a Flower Vase",
+    "medium": "Dry Paint Pallet (25 Rs)",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 31,
+    "image": "Paintings/Stitch.png",
+    "alt": "Painting 31",
+    "title": "Stitch",
+    "medium": "Acrylic Paint",
+    "canvas": "Flash Cards",
+    "year": "2020-2022 📅",
+    "original": "Pinterest 📌",
+    "movie":{
+      "text":"Lilo and Stitch",
+      "link":"https://g.co/kgs/q1Wmqxy"
+    }
+  },
+  {
+    "id": 32,
+    "image": "Paintings/Faces Stary Night.png",
+    "alt": "Painting 32",
+    "title": "Faces in the Stary Night",
+    "medium": "Acrylic Paint",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌",
+    "funFact":"I was listening to songs one night and 'Say You Won't Let Go' came on. I had this sudden urge to make something really beautiful. So I painted this while the song played on loop for 3 hours.",
+    "song": {
+      "text": "Say You Won't Let Go by James Arthur",
+      "link": "https://youtu.be/0yW7w8F2TVA?si=EgFKdZulq3v3mEJC"
+    }
+    
+  },
+  {
+    "id": 33,
+    "image": "Paintings/Smoking Man.png",
+    "alt": "Painting 33",
+    "title": "Smoking Man",
+    "medium": "Pencil",
+    "canvas": "Lined Diary Page",
+    "year": "2020-2022 📅",
+    "original": "Pinterest 📌",
+    "funFact": "I think this guy just gives off that morally grey character vibe. It is not a coincidence that he reminds me so much of 'Luc' from 'The Invisible Life of Addie LaRue by V.E. Schwab'. ",
+    "book":{
+      "text":"The Invisible Life of Addie LaRue by V.E. Schwab",
+      "link": "https://g.co/kgs/DzFuF3D"
+    }
+  },
+  {
+    "id": 34,
+    "image": "Paintings/Ballet Women.png",
+    "alt": "Painting 34",
+    "title": "Ballet Women",
+    "medium": "Pencil",
+    "canvas": "Plain Diary Page",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌",
+    "funFact": "She just looks so graceful and at peace. In my minds eye she is a Ballet performer doing elaborate swan like poses."
+  },
+  {
+    "id": 35,
+    "image": "Paintings/Vulture Man.png",
+    "alt": "A vulture eating a man in shackles, who has only little skin left on his bones, as light fall on them.",
+    "title": "Vulture and Man in Shackels",
+    "medium": "Blue Ball Point Pen",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌",
+    "song": {
+      "text": "Nadaan Parinde",
+      "link": "https://youtu.be/6MgsHSAcI9k?si=kF38nDiR8RCrBBAU"
+    }
+  },
+  {
+    "id": 36,
+    "image": "Paintings/Spider man.png",
+    "alt": "Doodles of Spider-Man",
+    "title": "Spider-Man",
+    "medium": "Sketch Markers",
+    "canvas": "A4 Sheet",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌"
+  },
+  {
+    "id": 37,
+    "image": "Paintings/Gojo.png",
+    "alt": "Satoru Gojo",
+    "title": "Satoru Gojo",
+    "medium": "Permanent Marker",
+    "canvas": "Sticky Notes 🗅 ",
+    "year": "2022-2025 📅",
+    "original": "Pinterest 📌"
+  }
+
+]
+
+
